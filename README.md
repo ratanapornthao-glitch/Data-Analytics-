@@ -91,11 +91,8 @@ her systolic blood pressure?
 
 <img width="1159" height="515" alt="Screenshot 2568-12-14 at 15 37 47" src="https://github.com/user-attachments/assets/d8aebf99-e96b-4fe6-9ff9-457f0b1644fa" />
 
-
 ### ❓ Key Question  
 **Does age have a significant impact on ten-year CHD risk?**
-
-
 
 ### 🧠 Insight Summary  
 **Consistent Age Impact:**  
@@ -117,6 +114,9 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 ---
 
 ## 📊 Findings & Insights: Gender vs Age Impact on CHD Risk
+
+<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 38 44" src="https://github.com/user-attachments/assets/865c2876-8546-4442-8fb4-006827d1e639" />
+
 
 ### ❓ Key Question  
 **Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
