@@ -171,10 +171,9 @@ significantly outweighing the impact of high cholesterol.
 
 ## 📊 Findings & Insights: Blood Glucose vs Systolic Blood Pressure (sysBP)
 
-<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 43 55" src="https://github.com/user-attachments/assets/2004e06b-9d16-4901-8624-03830ae99f45" />
+### ❓ Key Question: Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?
 
-### ❓ Key Question  
-**Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**
+<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 43 55" src="https://github.com/user-attachments/assets/2004e06b-9d16-4901-8624-03830ae99f45" />
 
 ### 🧠 Insight Summary  
 Elevated blood glucose is associated with **higher systolic blood pressure**, averaging **141.4 mmHg** compared to **131.6 mmHg** in the normal glucose group.  
@@ -194,39 +193,11 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 
 ---
 
-## 📊 Findings & Insights: BMI Category and Ten-Year CHD Risk
-
-<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 44 16" src="https://github.com/user-attachments/assets/6255e349-dcf5-4327-b784-5b267abd3ed5" />
-
-### ❓ Key Question  
-**Which BMI Category Has the Highest Number of Cases?**
-
-### 🧠 Insight Summary  
-**Heart disease risk rises with BMI**, peaking at nearly **20%** in the obese group  
-compared to **12%** in normal-weight individuals.  
-This confirms a strong association between **higher BMI and increased CHD risk**.
-
-### 📈 Average Ten-Year CHD Risk by BMI Category
-
-| **BMI Category**  | **Avg. Ten-Year CHD Risk** |
-|-------------------|----------------------------|
-| Normal weight     | 0.12022                    |
-| Underweight       | 0.14286                    |
-| Overweight        | 0.17309                    |
-| Obese             | 0.19824                    |
-
-
-### 📝 Interpretation  
-- There is a **clear upward trend**: CHD risk increases as BMI rises.  
-- Obese individuals show the **highest estimated ten-year risk**, nearly **double** some lower BMI groups.  
-- BMI therefore serves as a **strong predictive factor** for coronary heart disease.
-
----
-
 ## 📊 Findings & Insights: BMI Category Distribution
 
-### ❓ Key Question  
-**Which BMI Category Has the Highest Number of Cases?**
+### ❓ Key Question: Which BMI Category Has the Highest Number of Cases?
+
+<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 49 46" src="https://github.com/user-attachments/assets/3f5f6d2f-73f0-4b62-8019-d6641008c4a8" />
 
 ### 🧠 Key Insight  
 The **Overweight** category has the highest number of cases, accounting for **265 individuals**,  
