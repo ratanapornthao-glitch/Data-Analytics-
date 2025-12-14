@@ -114,10 +114,9 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 
 ## 📊 Findings & Insights: Gender vs Age Impact on CHD Risk
 
-<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 38 44" src="https://github.com/user-attachments/assets/865c2876-8546-4442-8fb4-006827d1e639" />
+### ❓ Key Question: Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?
 
-### ❓ Key Question  
-**Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
+<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 38 44" src="https://github.com/user-attachments/assets/865c2876-8546-4442-8fb4-006827d1e639" />
 
 ### 🧠 Insight Summary  
 **Gender shows minimal impact** on heart disease risk,  
@@ -141,10 +140,9 @@ whereas **age proves to be the dominant factor** for both males and females.
 
 ## 📊 Findings & Insights: Glucose vs Cholesterol as Risk Factors
 
-<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 43 19" src="https://github.com/user-attachments/assets/b8de4c80-e967-46ad-8c71-53e81dfa2e0e" />
+### ❓ Key Question: Which is the dominant risk factor: glucose or cholesterol?
 
-### ❓ Key Question  
-**Which is the dominant risk factor: glucose or cholesterol?**
+<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 43 19" src="https://github.com/user-attachments/assets/b8de4c80-e967-46ad-8c71-53e81dfa2e0e" />
 
 ### 🧠 Insight Summary  
 **High glucose is identified as the dominant risk factor,**  
