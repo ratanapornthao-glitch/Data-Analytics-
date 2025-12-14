@@ -74,6 +74,7 @@ Three critical data quality issues were identified during the exploration phase 
 ## ❓ Key Questions and Hypotheses
 
 ### 1. General Information
+
 * **Age Impact:** Does age significantly impact the 10-year CHD risk?
 * **Gender Differences:** Does the impact of age on CHD risk differ between genders?
 
@@ -88,7 +89,7 @@ her systolic blood pressure?
 
 ## 📊 Findings & Insights: Age Impact on CHD Risk
 
-![Uploading Screenshot 2568-12-14 at 15.30.52.png…]()
+<img width="1159" height="515" alt="Screenshot 2568-12-14 at 15 37 47" src="https://github.com/user-attachments/assets/d8aebf99-e96b-4fe6-9ff9-457f0b1644fa" />
 
 
 ### ❓ Key Question  
@@ -120,7 +121,6 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 ### ❓ Key Question  
 **Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
 
-![Uploading Screenshot 2568-12-14 at 15.28.12.png…]()
 
 
 ### 🧠 Insight Summary  
