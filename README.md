@@ -117,11 +117,8 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 
 <img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 38 44" src="https://github.com/user-attachments/assets/865c2876-8546-4442-8fb4-006827d1e639" />
 
-
 ### ❓ Key Question  
 **Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
-
-
 
 ### 🧠 Insight Summary  
 **Gender shows minimal impact** on heart disease risk,  
@@ -144,6 +141,8 @@ whereas **age proves to be the dominant factor** for both males and females.
 ---
 
 ## 📊 Findings & Insights: Glucose vs Cholesterol as Risk Factors
+
+<img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 43 19" src="https://github.com/user-attachments/assets/b8de4c80-e967-46ad-8c71-53e81dfa2e0e" />
 
 ### ❓ Key Question  
 **Which is the dominant risk factor: glucose or cholesterol?**
@@ -175,6 +174,8 @@ significantly outweighing the impact of high cholesterol.
 
 ## 📊 Findings & Insights: Blood Glucose vs Systolic Blood Pressure (sysBP)
 
+<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 43 55" src="https://github.com/user-attachments/assets/2004e06b-9d16-4901-8624-03830ae99f45" />
+
 ### ❓ Key Question  
 **Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**
 
@@ -197,6 +198,8 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 ---
 
 ## 📊 Findings & Insights: BMI Category and Ten-Year CHD Risk
+
+<img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 44 16" src="https://github.com/user-attachments/assets/6255e349-dcf5-4327-b784-5b267abd3ed5" />
 
 ### ❓ Key Question  
 **Which BMI Category Has the Highest Number of Cases?**
