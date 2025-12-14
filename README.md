@@ -89,7 +89,7 @@ her systolic blood pressure?
 
 ## 📊 Findings & Insights: Age Impact on CHD Risk
 
-### ❓Question: Does age have a significant impact on ten-year CHD risk?
+### ❓Question - Does age have a significant impact on ten-year CHD risk?
 
 <img width="1159" height="515" alt="Screenshot 2568-12-14 at 15 37 47" src="https://github.com/user-attachments/assets/d8aebf99-e96b-4fe6-9ff9-457f0b1644fa" />
 
@@ -114,7 +114,7 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 
 ## 📊 Findings & Insights: Gender vs Age Impact on CHD Risk
 
-### ❓ Key Question: Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?
+### ❓ Question - Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?
 
 <img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 38 44" src="https://github.com/user-attachments/assets/865c2876-8546-4442-8fb4-006827d1e639" />
 
@@ -140,7 +140,7 @@ whereas **age proves to be the dominant factor** for both males and females.
 
 ## 📊 Findings & Insights: Glucose vs Cholesterol as Risk Factors
 
-### ❓ Key Question: Which is the dominant risk factor: glucose or cholesterol?
+### ❓ Question - Which is the dominant risk factor: glucose or cholesterol?
 
 <img width="1156" height="613" alt="Screenshot 2568-12-14 at 15 43 19" src="https://github.com/user-attachments/assets/b8de4c80-e967-46ad-8c71-53e81dfa2e0e" />
 
@@ -171,7 +171,7 @@ significantly outweighing the impact of high cholesterol.
 
 ## 📊 Findings & Insights: Blood Glucose vs Systolic Blood Pressure (sysBP)
 
-### ❓ Key Question: Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?
+### ❓ Question - Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?
 
 <img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 43 55" src="https://github.com/user-attachments/assets/2004e06b-9d16-4901-8624-03830ae99f45" />
 
@@ -195,7 +195,7 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 
 ## 📊 Findings & Insights: BMI Category Distribution
 
-### ❓ Key Question: Which BMI Category Has the Highest Number of Cases?
+### ❓ Question - Which BMI Category Has the Highest Number of Cases?
 
 <img width="1156" height="653" alt="Screenshot 2568-12-14 at 15 49 46" src="https://github.com/user-attachments/assets/3f5f6d2f-73f0-4b62-8019-d6641008c4a8" />
 
