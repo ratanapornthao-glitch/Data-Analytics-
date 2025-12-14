@@ -19,7 +19,7 @@ The analysis aims to answer critical questions regarding heart disease risk fact
 
 ## 📂 Data Description
 
-The dataset used in this analysis is the **Framingham Heart Study** dataset, obtained from Kaggle. It includes health records of residents from Framingham, Massachusetts, consisting of **4,238 records** and **15 attributes**.
+The dataset used in this analysis is the **Framingham Heart Study** dataset, obtained from Kaggle. It includes health records of residents from Framingham, Massachusetts, consisting of **4,238 records** and **16 attributes**.
 
 * **Source:** [Kaggle - Heart Disease Prediction Using Logistic Regression](https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data)
 * **Target Variable:** `TenYearCHD` (10-year risk of coronary heart disease)
