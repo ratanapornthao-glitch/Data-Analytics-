@@ -92,6 +92,8 @@ her systolic blood pressure?
 ### ❓ Key Question  
 **Does age have a significant impact on ten-year CHD risk?**
 
+
+
 ### 🧠 Insight Summary  
 **Consistent Age Impact:**  
 Across both genders, individuals in the **Risk** group are consistently older than those in the **No Risk** group.  
